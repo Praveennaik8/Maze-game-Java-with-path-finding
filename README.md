@@ -8,6 +8,6 @@ This repository contains Jar file and required input file
 3. Compatible for Java SE 10 = 54
 
 # Preview
-Check the Gui_preview.pdf  for game preview
+Check the Gui_Preview.pdf  for game preview
 
 ### To get the source code please contact me : praveennaik8887@gmail.com
