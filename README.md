@@ -10,4 +10,6 @@ This repository contains Jar file and required input file
 # Preview
 Check the Gui_Preview.pdf  for game preview
 
-### To get the source code please contact me : praveennaik8887@gmail.com
+### To get the source code please contact me : praveennaik8887@gmail.com<br>
+<br>
+https://github.com/Praveennaik8/Maze-game-with-path-finding-java
